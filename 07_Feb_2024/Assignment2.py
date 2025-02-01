@@ -1,5 +1,12 @@
-# Write a Python program to calculate the area of a circle given its radius using the formula area=π×r^2 ( Take pie as 3.14)
-# Create a program that takes two numbers as input and prints whether the first number is greater than, less than, or equal to the second number.
+# Task 1
+# Write a Python program to calculate the area of a circle given its radius
+# using the formula area=π×r^2 ( Take pie as 3.14)
+
+# Task 2
+# Create a program that takes two numbers as input and prints
+# whether the first number is greater than, less than, or equal to the second number.
+
+# Task 3
 # Develop a Python script that calculates the square and cube of a given number.
 
 # Task 1

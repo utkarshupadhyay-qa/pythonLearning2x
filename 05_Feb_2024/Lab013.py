@@ -1,6 +1,6 @@
 # Sequence - List
 # []
-# Collection of items
+# Ordered Collection of items
 # It can be of different datatypes
 
 my_shopping_list = ["buttermilk","oranges","apples","Flowers"]
