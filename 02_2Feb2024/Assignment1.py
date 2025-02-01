@@ -6,7 +6,7 @@
 
 name = input("Enter your name : ")
 age = input("Please Enter your age : ")
-roll_number = input("Please enter yuor roll number: ")
+roll_number = input("Please enter your roll number: ")
 phone_number = input("Please Enter you phone number: ")
 print("User name is: ", name)
 print("User age is: ", age)

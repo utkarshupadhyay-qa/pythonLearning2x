@@ -13,3 +13,9 @@ print(sum1)
 sum2 = int(num1) + int(num2)
 # str --> int (by help of int() )
 print(sum2)
+
+p1 = 20
+p2 = 10
+p3 = p1/p2
+print(p3)
+print(type(p3))
