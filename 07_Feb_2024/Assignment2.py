@@ -11,7 +11,7 @@
 
 # Task 1
 
-radius1 = int(input("Enter the radius of the circle: "))
+radius1 = float(input("Enter the radius of the circle: "))
 pi = 3.14
 area1 = pi*radius1**2
 print("The are of the circle is: ",area1)
