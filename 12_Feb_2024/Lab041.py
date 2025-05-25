@@ -4,13 +4,15 @@
 
 # 2 - Non Return type a function
 
-#Define the Function
+# Define the Function
 def greet():
     print("Hello! How are you?")
 
-# # Call the function
- for i in range(5):
-     greet()
+    # # Call the function
+
+
+for i in range(5):
+    greet()
 # # it does'nt return anything - it just prints the value
 
 # # CAll the function
